@@ -1,0 +1,63 @@
+any_disese($ans)
+	Are you have any of the following symptoms?
+	---
+	$ans = select_1
+		1: sorethroat,cough,vomiting
+		2: fatigue,darkenedskin
+		3: hayfever,diarrhoea,itchyskin,breathlessness
+		4: feelingtired,feelingirritable,blurryvision
+		5: None of the above
+			! Ohhh shiiit you are good :(
+
+its_aids($ans)
+	Are you have drycough,memoryloss,hayfever and Pneumonia?
+	---
+	$ans = yn
+
+any_disese2($ans)
+	Are you have any of the following symptoms?
+	---
+	$ans = select_1
+		1: headaches,nosebleeds
+		2: stuffynose,sneezing,runnynose
+		3: urine infects,blood urine,feeling sweaty
+		4: None of the above
+			! Ohhh shiiit you are good :(
+
+its_Hepatitis_b($ans)
+	Are you have joint pain,weakness,nausea and tiredness?
+	---
+	$ans = yn
+
+its_Rheumatoid_Arthritis($ans)
+	Are you have weight loss,stiffness,swelling and tiredness?
+	---
+	$ans = yn
+
+
+any_disese3($ans)
+	Are you have any of the following symptoms?
+	---
+	$ans = select_1
+		1: vomiting,sleep_problems
+		2: stuffynose,sneezing,runnynose
+		3: urine infects,blood urine,feeling sweaty
+                4: Fatigue,Weakness,Pale or yellowish skin,Cold hands and feet
+		5: None of the above
+			! Ohhh shiiit you are good :(
+any_disese4($ans)
+        Are you have any of the following symptoms?
+	---
+	$ans = select_1
+		1: chest pain ,chest pain,tightness,sweating
+		2: Tiredness.,Dry skin,Weight gain,Puffy face
+		3: Rectal bleeding,Weakness or fatigue,unexplained weight loss
+	        4: pain and stiffness in your joints,joint tenderness,weakness and muscle wasting
+		5: rapid heart rate,shortness of breath,fever,fatigue
+		6: None of the above
+			! Ohhh shiiit you are good :(
+
+its_Gout($ans)
+	Are you have shiny skin and severe pain?
+	---
+	$ans = yn

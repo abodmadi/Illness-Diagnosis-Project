@@ -1,0 +1,136 @@
+#if a then b dfact.drycough(True)
+function1_tray
+   use you_have_a_disease("it's aids")
+   when
+       dquestion.its_aids(True)
+
+function11_tray
+   use you_have_a_disease("Ohhh shiiit you are good :(")
+   when
+       dquestion.its_aids(False)
+
+function2
+   use you_have_a_disease("Allergies")
+   when
+       dquestion.any_disese($ans)
+       check $ans in (3,)
+
+function3
+   use you_have_a_disease("Type1diabetes")
+   when
+       dquestion.any_disese($ans)
+       check $ans in (4,)
+
+function4
+   use you_have_a_disease("Type2diabetes")
+   when
+       dquestion.any_disese($ans)
+       check $ans in (2,)
+
+function6
+   use you_have_a_disease("COVID-19")
+   when
+      dquestion.any_disese($ans)
+      check $ans in (1,)
+
+function5
+   use you_have_a_disease("Normal blood pressure")
+   when
+       dquestion.any_disese2($ans)
+       check $ans in (1,)
+
+function7
+   use you_have_a_disease("Common Cold")
+   when
+      dquestion.any_disese2($ans)
+      check $ans in (2,)
+
+function8
+   use you_have_a_disease("Kidney stone")
+   when
+      dquestion.any_disese2($ans)
+      check $ans in (3,)
+
+function9
+   use you_have_a_disease("Hepatitis_b")
+   when
+       dquestion.its_Hepatitis_b(True)
+
+function99
+   use you_have_a_disease("Ohhh shiiit you are good :(")
+   when
+       dquestion.its_Hepatitis_b(False)
+
+function10
+   use you_have_a_disease("Rheumatoid Arthritis")
+   when
+       dquestion.its_Rheumatoid_Arthritis(True)
+
+function1010
+   use you_have_a_disease("Ohhh shiiit you are good :(")
+   when
+       dquestion.its_Rheumatoid_Arthritis(False)
+
+function11
+   use you_have_a_disease("Chronic kidney")
+   when
+      dquestion.any_disese3($ans)
+      check $ans in (1,)
+
+function13
+   use you_have_a_disease("glaucoma")
+   when
+       dquestion.any_disese3($ans)
+       check $ans in (2,)
+
+function14
+   use you_have_a_disease("Leukemia")
+   when
+       dquestion.any_disese3($ans)
+       check $ans in (3,)
+
+function15
+   use you_have_a_disease("Anemia")
+   when
+       dquestion.any_disese3($ans)
+       check $ans in (4,)
+
+function12
+   use you_have_a_disease("Gout")
+   when
+       dquestion.its_Gout(True)
+
+function1212
+   use you_have_a_disease("Ohhh shiiit you are good :(")
+   when
+       dquestion.its_Gout(False)
+
+function16
+   use you_have_a_disease("Heart attack")
+   when
+       dquestion.any_disese4($ans)
+       check $ans in (1,)
+
+function17
+   use you_have_a_disease("Hypothyroidism")
+   when
+       dquestion.any_disese4($ans)
+       check $ans in (2,)
+
+function18
+   use you_have_a_disease("Colon Cancer")
+   when
+       dquestion.any_disese4($ans)
+       check $ans in (3,)
+
+function19
+   use you_have_a_disease("Osteoarthritis")
+   when
+       dquestion.any_disese4($ans)
+       check $ans in (4,)
+
+function20
+   use you_have_a_disease("Favism")
+   when
+       dquestion.any_disese4($ans)
+       check $ans in (5,)

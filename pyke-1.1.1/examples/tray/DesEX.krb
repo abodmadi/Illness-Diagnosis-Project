@@ -1,0 +1,6 @@
+#if a then b
+
+aidsdes
+	use aids(True)
+	when
+	facts.Drycough(True)
